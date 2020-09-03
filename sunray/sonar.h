@@ -7,7 +7,7 @@
 // for 3 sensors, optimized for speed: based on hardware interrupts (no polling)
 // up to 100 Hz measurements tested
 
-#ifndef SONAR_H
+#define SONAR_H
 #define SONAR_H
 
 
@@ -31,5 +31,5 @@ class Sonar {
 
 
 
-#endif
+
 
